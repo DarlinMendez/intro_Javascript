@@ -10,4 +10,4 @@ alert(`Bienvenido ${nombre}. Tienes ${edad} años de edad. Naciste en ${ciudad}`
 
 //template string = interpolacion
 //comilla invertida backtickc ``
-// ${NombreVariable}
+// ${NombreVariable} sss
