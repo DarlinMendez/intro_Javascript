@@ -23,7 +23,7 @@ miembrosFamilia.push(prompt("Digita el 3er Familiar"));
 //cree objeto Datos personales
 let datosPersonales = {
     nombreCompleto: prompt("Nombre Completo"),
-    fechaDeNacimiento: Number(prompt("Cuando Naciste")),
+    fechaDeNacimiento: prompt("Cuando Naciste"),
     LugarDeNacimiento: prompt("Lugar de nacimiento"),
     Edad: Number(prompt("Cual es tu edad?")),
     ComidasFavoritas: [],
@@ -48,7 +48,7 @@ datosPersonales.Paises[4] = prompt("5to paies que te gustria visitar")
 let DatosArtista = {
     nombreArtista: prompt("Cual es tu artista Favorito"),
     nombreRealArtista:  prompt("Cual es su nombre Real"),
-    fechaDeNacimientodelArtista: Number(prompt("Cual es su fecha de nacimineto")),
+    fechaDeNacimientodelArtista: prompt("Cual es su fecha de nacimineto"),
     Canciones: []
 
 }
