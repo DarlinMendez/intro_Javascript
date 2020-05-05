@@ -33,8 +33,8 @@ let datosPersonales = {
 }
 //ingreso Comidas en el array
 datosPersonales.ComidasFavoritas[0] = prompt("Cual es tu primera  comida favorita"),
-datosPersonales.ComidasFavoritas[2] = prompt("Cual es tu segunda comida favorita"),
-datosPersonales.ComidasFavoritas[3] = prompt("Cual es tu Tercera  comida favorita"),
+datosPersonales.ComidasFavoritas[1] = prompt("Cual es tu segunda comida favorita"),
+datosPersonales.ComidasFavoritas[2] = prompt("Cual es tu Tercera  comida favorita"),
 
 
 //Ingreso Paises en el array
