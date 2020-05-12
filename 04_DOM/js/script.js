@@ -38,6 +38,7 @@ let inputNumero2 = document.querySelector("#numero2");
 
 let btnCalcular = document.querySelector("#calcular");
 
+//agregando elemento click
 btnCalcular.addEventListener("click", function(){
     let valor1 = Number(inputNumero1.value);
     let valor2 = Number(inputNumero2.value);
